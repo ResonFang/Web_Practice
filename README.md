@@ -1,1 +1,1 @@
-*Hello,These are some practice codes I wrote while learing web developmentI*
+*Hello,These are some practice codes I wrote while learing web development!*
