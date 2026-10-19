@@ -1,0 +1,13 @@
+//  var iNum = 100;;
+//  document.write('iNum = '+ iNum + '<br>');
+//  var oNum = 77;
+//  document.write('oNum =' + oNum + '<br>');
+//  var Tname = 'Tomas';
+//  document.write('name = ' + Tname +'<br>');
+// var name = 'wangfanglong';
+// document.write('name = ' + name + '<br>');
+// var judge = 12 == 12;
+// document.write ('judge = ' + judge + '<br>');
+// iNum = 5;
+// iNum = iNum++ + 10 + ++iNum;
+// document.write('iNum = ' + iNum + '<br>');
