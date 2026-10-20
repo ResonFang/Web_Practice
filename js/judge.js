@@ -29,9 +29,9 @@ var Sum = 0;
 for (i = 1; i <=100; i++){
     Sum += i;
 }
-console.log("Sum = " + Sum);
+// console.log("Sum = " + Sum);
 var j = 0;
 while (j <= 10){
-    console.log("i = " + i);
+    // console.log("i = " + i);
     j++;
 }
